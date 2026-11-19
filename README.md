@@ -142,6 +142,15 @@ Demonstrates centralized vendor documentation tracking, including contract avail
 - **Budget Baseline:** The Notion planning overview displays an initial budget range of $20,000, while the Power BI financial report reflects a more detailed working budget of $20,570.
 - **Data Privacy:** Public-facing vendor information has been anonymized, and private contract attachments are not included in the published materials.
 
+## How to Explore This Portfolio
+
+- **Quick Preview:** View the five report screenshots directly in this README.
+- **Power BI Report:** Download `Wedding_Project_Management_Portfolio.pbix` and open it using Power BI Desktop.
+- **Excel Workbook:** Download `Wedding_Project_Public_Data.xlsx` to explore the underlying planning and financial records.
+- **Data Source Configuration:** If Power BI requires a data source update, use **Transform Data → Data Source Settings** to replace the original local Excel file path with the downloaded workbook location, then refresh the report.
+
+The report screenshots provide a static preview without requiring Power BI Desktop.
+
 ## Project Management Skills Demonstrated
 
 - Project Planning & Task Organization
